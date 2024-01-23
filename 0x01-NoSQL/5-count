@@ -1,0 +1,2 @@
+// displaying  number of document sin school
+db.school.count()
