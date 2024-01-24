@@ -1,0 +1,1 @@
+this is a folder containing projects about Redis basic
